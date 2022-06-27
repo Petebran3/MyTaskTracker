@@ -7,7 +7,7 @@
 .hero-image{
     background-image:url("ppp.jpeg");
     height: 100vh;
-    
+    position: relative;
 
     background-attachment: fixed;
     background-position: center;
